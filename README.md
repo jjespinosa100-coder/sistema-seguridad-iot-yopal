@@ -57,4 +57,4 @@ sistema-seguridad-iot-yopal/
 
 ▶️ [Ver video de presentación](URL_DEL_VIDEO)
 
-*Duración: máximo 10 minutos — demo en tiempo real del sistema instalado*
+
