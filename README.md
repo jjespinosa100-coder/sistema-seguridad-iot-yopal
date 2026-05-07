@@ -46,9 +46,7 @@ El proyecto no desarrolla software propio ni fabrica hardware. Integra tecnolog�
 sistema-seguridad-iot-yopal/
 ├── README.md
 └── config/
-    ├── vlan_config.md       ← Configuración VLAN del router
-    ├── nvr_setup.md         ← Configuración del NVR
-    └── firewall_rules.md    ← Reglas de firewall aplicadas
+    └── configuracion_tecnica.md
 ```
 
 ---
