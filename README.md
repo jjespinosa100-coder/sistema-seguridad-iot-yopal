@@ -53,6 +53,7 @@ sistema-seguridad-iot-yopal/
 
 ## Video del prototipo
 
-▶️ [Ver video de presentación](URL_DEL_VIDEO)
+▶️ https://drive.google.com/file/d/1CXfd-FIE4i-4MnQHxiq
+UAHxYYk2s2Zz/view?usp=sharing
 
 
